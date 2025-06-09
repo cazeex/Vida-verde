@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+se<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -135,13 +135,4 @@ a2ee48  <style>
       <li><strong>Cidade de Curitiba (Brasil):</strong> referência mundial em transporte público sustentável.</li>
       <li><strong>Projeto Tamar:</strong> protege tartarugas marinhas no litoral brasileiro desde 1980.</li>
       <li><strong>Acordo de Paris:</strong> países se unindo para reduzir emissões de gases do efeito estufa.</li>
-    </ul>
-  </section>
-
-  <footer>
-    <p>🌿 Trabalho escolar - Ambientalismo | Feito por Caio | Junho de 2025</p>
-  </footer>
-
-
-</body>
-</html>
+    </u
